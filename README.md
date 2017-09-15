@@ -1,7 +1,8 @@
 # Plan-Ahead-App
 
-This is an app i've made for one of my assignments. Its just a simple to-do app with an alarm system built in. 
-The alarm is fairly faulty but with the right tinkering its should become better because there alot of room for improvement.
+This is an app i've made for one of my assignments. Its a simple to-do app with an alarm system built in. 
+The alarm is fairly faulty but if your looking for something to tinker with it should be easy to find because there alot of room for improvement. 
+Languages: HTML, CSS, JavaScript
 
 Any use from personally to commercially of this app, I just request i know what its being used for :). I'll just be intrigued.
 
