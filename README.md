@@ -6,6 +6,8 @@ Languages: HTML, CSS, JavaScript
 
 Any use from personally to commercially of this app, I just request i know what its being used for :). I'll just be intrigued.
 
+upload index.html in the main directory, with a sub directory called 'resources' to put style.css and java.js then all external files should work. 
+
 Play around with it, fix it or find a new use for it choice is yours. Enjoy.
 
 by bloodyspewin.
